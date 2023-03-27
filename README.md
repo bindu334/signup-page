@@ -20,7 +20,7 @@
 			display: block;
 			width: 100%;
 			padding: 10px;
-			background-color: #007bff;
+			background-color: blue;
 			color: #fff;
 			font-size: 16px;
 			line-height: 1.5;
